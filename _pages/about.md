@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 # Presentation
-Senior economist at OLX Brasil and Associate Researcher in the Regional and Urban Economics (NEREUS) at the University of São Paulo. My research focuses on Real Estate, Labor Market and Developmen Economics. I held my doctoral degree in Development Economics from the School of Economics, Business and Accounting of University of São Paulo. \
+Senior economist at OLX Brasil and Associate Researcher in the Regional and Urban Economics (NEREUS) at the University of São Paulo. My research focuses on Real Estate, Labor Market and Economics Development. I held my doctoral degree in Development Economics from the School of Economics, Business and Accounting of the University of São Paulo. \
 \
-**Interests:** Microeconometrics; Spatial Econometrics; Public Policy Evaluation; Regional and Urban Economics; Urban Labor Market; Maket Structure. \
+**Interests:** Microeconometrics; Spatial Econometrics; Public Policy Evaluation; Regional and Urban Economics; Urban Labor Market; Market Structure. \
 \
 Currículo [**Lattes**](http://lattes.cnpq.br/6682179634478803). 
 
