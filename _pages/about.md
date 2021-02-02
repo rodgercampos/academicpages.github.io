@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,14 +13,14 @@ Senior economist at OLX Brasil and Associate Researcher in the Regional and Urba
 \
 **Interests:** Microeconometrics; Spatial Econometrics; Public Policy Evaluation; Regional and Urban Economics; Urban Labor Market; Maket Structure. \
 \
-Currículo [**Lattes**].(http://lattes.cnpq.br/6682179634478803). 
+Currículo [**Lattes**](http://lattes.cnpq.br/6682179634478803). 
 
 # News
 
 [28/01/2021]. **MIDIA** Boletim Fipe\
-[Compra de Imóveis na Planta em Época de Inflação Setorial]. (https://downloads.fipe.org.br/publicacoes/bif/bif484-15-18.pdf)\
+[Compra de Imóveis na Planta em Época de Inflação Setorial](https://downloads.fipe.org.br/publicacoes/bif/bif484-15-18.pdf)\
 Rodger Campos
 
 [10/01/2021]. **MIDIA** Extra \
-[Especialistas avaliam como deve se comportar o mercado imobiliário em 2021]. (https://extra.globo.com/economia/castelar/especialistas-avaliam-como-deve-se-comportar-mercado-imobiliario-em-2021-24830391.html)
+[Especialistas avaliam como deve se comportar o mercado imobiliário em 2021](https://extra.globo.com/economia/castelar/especialistas-avaliam-como-deve-se-comportar-mercado-imobiliario-em-2021-24830391.html)
 Rodger Campos
