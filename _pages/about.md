@@ -17,10 +17,10 @@ Currículo [**Lattes**](http://lattes.cnpq.br/6682179634478803).
 
 # News
 
-[28/01/2021]. **MIDIA** Boletim Fipe\
+[28/01/2021]. **NEW PUBLICATION** Boletim Fipe\
 [Compra de Imóveis na Planta em Época de Inflação Setorial](https://downloads.fipe.org.br/publicacoes/bif/bif484-15-18.pdf)\
 Rodger Campos
 
-[10/01/2021]. **MIDIA** Extra \
+[10/01/2021]. **NEW PUBLICATION** Extra \
 [Especialistas avaliam como deve se comportar o mercado imobiliário em 2021](https://extra.globo.com/economia/castelar/especialistas-avaliam-como-deve-se-comportar-mercado-imobiliario-em-2021-24830391.html)
 Rodger Campos
