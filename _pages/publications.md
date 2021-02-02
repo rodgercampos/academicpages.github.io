@@ -5,12 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+# Papers
+- [Dispersão Concentrada do emprego intraurbano:modelos teoricos e abordagens empíricas]
+(https://revistaaber.org.br/rberu/article/view/460/305) <br/>
+Revista Brasileira de Estudos Regionais e Urbanos, 2020 <br/>
+Rodger B. A. Campos & Carlos R. Azzoni
