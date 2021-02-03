@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 # Current Projects
-- Zoning to suit? Impacts of building regulations on real estate prices in Brazilian cities
+- Zoning to suit? Impacts of building regulations on real estate prices in Brazilian cities <br/>
 Danilo C. Igliori; Camila Maleronka; Flávia M. F. R. Leite; Rodger B. A. Campos & Sérgio A. Castelani
 
 - [The monetary policy effects on the Brazilian real estate]
