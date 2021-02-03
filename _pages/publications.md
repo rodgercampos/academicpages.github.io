@@ -15,11 +15,11 @@ Rodger B. A. Campos & Gustavo P. Serra
 Rodger B. A. Campos & Edivaldo Constantino Jr
 
 # Forthcoming Papers
-- [Empirical identification of intra-urban subcentralities: a new methodological approach with an application for a developing country]<br/>
+- Empirical identification of intra-urban subcentralities: a new methodological approach with an application for a developing country <br/>
 Journal Economía, 2021 <br/>
 Rodger B. A. Campos & Carlos R. Azzoni
 
-- [Employment sub-centers in a megacity from a developing country: the case of the Municipality of São Paulo, Brazil]
+- Employment sub-centers in a megacity from a developing country: the case of the Municipality of São Paulo, Brazil <br/>
 Nova Economia, 2021 <br/>
 Rodger B. A. Campos & André S. Chagas
 
