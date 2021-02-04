@@ -17,17 +17,9 @@ Education
 
 Work experience
 ======
-* 2019 - current: Senior Economist
-  * OLX Brasil
- 
-* 2019 - current: Associate Researcher
-  * OLX Brasil 
-  
-* 2017 - current: Research Consultant
-  * Fundação Instituto de Pesquisas Econômicas (FIPE)
-
-* 2019 - 2020: Full Professor
-  * Ibmec College
+* 2019 - current: Senior Economist at OLX Brasil
+* 2019 - current: Associate Researcher at Regional and Urban Economics Lab (NEREUS-USP) 
+* 2019 - 2020: Full Professor at Ibmec College
   
 Skills
 ======
