@@ -42,8 +42,8 @@ Habitat International, 2017. Fernando S. Perobelli; Rodger B. A. Campos; Viniciu
  
 Forthcoming Papers
 ======
-
-
+* Empirical identification of intra-urban subcentralities: a new methodological approach with an application for a developing country. Journal Economía, 2021. Rodger B. A. Campos & Carlos R. Azzoni
+* Employment sub-centers in a megacity from a developing country: the case of the Municipality of São Paulo, Brazil. Nova Economia, 2021. Rodger B. A. Campos & André S. Chagas
 
 Talks
 ======
@@ -54,9 +54,8 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-teaching-cv.html %}
-  {% endfor %}</ul>
+* 2019-20: Full professor at Ibmec College (Undergraduate level: Macroeconomics II and III).
+* 2017: Workshop in Microeconometrics at FEA-USP. 
   
 Fellowships and Awards
 ======
