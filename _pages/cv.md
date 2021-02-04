@@ -11,21 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Economics, Presbyterian Mackenzie University , 2018
+* M.S. in Economics, Federal University of Juiz de Fora, 2014
+* Ph.D in Economics, University of São Paulo, 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019 - current: Senior Economist
+  * OLX Brasil
+ 
+* 2019 - current: Associate Researcher
+  * OLX Brasil 
+  
+* 2017 - current: Research Consultant
+  * Fundação Instituto de Pesquisas Econômicas (FIPE)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019 - 2020: Full Professor
+  * Ibmec College
   
 Skills
 ======
