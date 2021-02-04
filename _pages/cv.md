@@ -23,12 +23,12 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Strong data management and quantitative analysis capability
+* Experience coordinating teams and squads
+* Experience estimating Spatial Econometrics models
+* Experience evaluating public polices in Brazil
+* Experience using Geographic Information System to create maps
+* Experience using computers and software applications (R, Stata, ArcMap, SQL, MatLab and Excel) 
 
 Publications
 ======
@@ -48,6 +48,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Fellowships and Awards
 ======
-* Currently signed in to 43 different slack teams
+* 2019: 2nd place in the exam for Mathematics, Econometrics and Statistics Associate Professor position of the Federal University of Minas Gerais in Minas Gerais State, Brazil.
+* 2014-18 Capes PhD Fellowship - Brazilian Ministry of Education
+* 2012-14 Capes MSc Fellowship - Brazilian Ministry of Education
+* 2012: 1st place in the 2014 Edition of Paulo Haddad Prize as the best academic paper promoted by the Brazilian Studies of Regional and Urban Association (ABER)
