@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Economics, Presbyterian Mackenzie University , 2018
+* B.S. in Economics, Presbyterian Mackenzie University , 2011
 * M.S. in Economics, Federal University of Juiz de Fora, 2014
 * Ph.D in Economics, University of São Paulo, 2018
 
@@ -23,10 +23,10 @@ Work experience
   
 Skills
 ======
-* Strong data management and quantitative analysis capability
-* Experience coordinating teams and squads
-* Experience estimating Spatial Econometrics models
-* Experience evaluating public polices in Brazil
+* Strong data management and quantitative analysis capabilities
+* Experience coordinating teams 
+* Experience estimating econometrics models
+* Experience evaluating public polices 
 * Experience using Geographic Information System to create maps
 * Experience using computers and software applications (R, Stata, ArcMap, SQL, MatLab and Excel) 
 
@@ -51,6 +51,6 @@ Teaching
 Fellowships and Awards
 ======
 * 2019: 2nd place in the exam for Mathematics, Econometrics and Statistics Associate Professor position of the Federal University of Minas Gerais in Minas Gerais State, Brazil.
-* 2014-18 Capes PhD Fellowship - Brazilian Ministry of Education
-* 2012-14 Capes MSc Fellowship - Brazilian Ministry of Education
+* 2014-18: Capes PhD Fellowship - Brazilian Ministry of Education
+* 2012-14: Capes MSc Fellowship - Brazilian Ministry of Education
 * 2012: 1st place in the 2014 Edition of Paulo Haddad Prize as the best academic paper promoted by the Brazilian Studies of Regional and Urban Association (ABER)
