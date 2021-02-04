@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # Presentation
-Senior economist at OLX Brasil, Associate Researcher in the Regional and Urban Economics (NEREUS) at the University of São Paulo and Research Consultant (FIPE, WARWICK UNIVERSITY, LINCOLN INSTITUTE). My research focuses on Real Estate, Labor Market and Economics Development. I held my doctoral degree in Development Economics from the School of Economics, Business and Accounting of the University of São Paulo. \
+Senior economist at OLX Brasil, Associate Researcher in the Regional and Urban Economics (NEREUS) at the University of São Paulo and Research Consultant (FIPE, WARWICK UNIVERSITY, LINCOLN INSTITUTE). My research focuses on Real Estate, Labor Market and Economics Development. I hold my doctoral degree in Development Economics from the School of Economics, Business and Accounting of the University of São Paulo. \
 \
 **Interests:** Microeconometrics; Spatial Econometrics; Public Policy Evaluation; Regional and Urban Economics; Urban Labor Market; Market Structure. \
 \
