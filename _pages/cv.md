@@ -45,13 +45,7 @@ Forthcoming Papers
 * Empirical identification of intra-urban subcentralities: a new methodological approach with an application for a developing country. Journal Economía, 2021. Rodger B. A. Campos & Carlos R. Azzoni
 * Employment sub-centers in a megacity from a developing country: the case of the Municipality of São Paulo, Brazil. Nova Economia, 2021. Rodger B. A. Campos & André S. Chagas
 
-Talks
-======
 
-  <ul>{% for post in site.teaching %}
-    {% include archive-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
 * 2019-20: Full professor at Ibmec College (Undergraduate level: Macroeconomics II and III).
