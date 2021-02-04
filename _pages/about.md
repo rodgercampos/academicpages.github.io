@@ -21,6 +21,14 @@ Currículo [**Lattes**](http://lattes.cnpq.br/6682179634478803).
 [Compra de Imóveis na Planta em Época de Inflação Setorial](https://downloads.fipe.org.br/publicacoes/bif/bif484-15-18.pdf)\
 Rodger Campos
 
+[21/01/2021]. **NEW PUBLICATION** Nova Economia\
+Employment sub-centers in a megacity from a developing country: the case of the Municipality of São Paulo, Brazil\
+Rodger Campos & André Chagas
+
+[21/01/2021]. **NEW PUBLICATION** Journal Economía\
+Empirical identification of intra-urban subcentralities: a new methodological approach with an application for a developing country\
+Rodger Campos & Carlos Azzoni
+
 [10/01/2021]. **NEW PUBLICATION** Extra \
 [Especialistas avaliam como deve se comportar o mercado imobiliário em 2021](https://extra.globo.com/economia/castelar/especialistas-avaliam-como-deve-se-comportar-mercado-imobiliario-em-2021-24830391.html)
 Rodger Campos
