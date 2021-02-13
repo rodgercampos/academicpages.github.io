@@ -25,15 +25,15 @@ Interviewed: Rodger Campos
 [Preço do material de construção sobe e prejudica sonho da casa própria](https://www.cnnbrasil.com.br/business/2021/01/28/preco-do-material-de-construcao-sobe-e-prejudica-sonho-da-casa-propria)\
 Interviewed: Rodger Campos
 
-[28/01/2021]. **ACCADEMIC PUBLICATION** Boletim Fipe\
+[28/01/2021]. **ACADEMIC PUBLICATION** Boletim Fipe\
 [Compra de Imóveis na Planta em Época de Inflação Setorial](https://downloads.fipe.org.br/publicacoes/bif/bif484-15-18.pdf)\
 Author: Rodger Campos
 
-[21/01/2021]. **ACCADEMIC PUBLICATION** Nova Economia\
+[21/01/2021]. **ACADEMIC PUBLICATION** Nova Economia\
 Employment sub-centers in a megacity from a developing country: the case of the Municipality of São Paulo, Brazil\
 Authors: Rodger Campos & André Chagas
 
-[21/01/2021]. **ACCADEMIC PUBLICATION** Journal Economía\
+[21/01/2021]. **ACADEMIC PUBLICATION** Journal Economía\
 Empirical identification of intra-urban subcentralities: a new NOmethodological approach with an application for a developing country\
 Authors: Rodger Campos & Carlos Azzoni
 
