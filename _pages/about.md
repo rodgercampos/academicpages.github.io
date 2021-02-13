@@ -31,7 +31,7 @@ Author: Rodger Campos
 
 [21/01/2021]. **NEW ACCADEMIC PUBLICATION** Nova Economia\
 Employment sub-centers in a megacity from a developing country: the case of the Municipality of São Paulo, Brazil\
-Authors:Rodger Campos & André Chagas
+Authors: Rodger Campos & André Chagas
 
 [21/01/2021]. **NEW PUBLICATION** Journal Economía\
 Empirical identification of intra-urban subcentralities: a new NOmethodological approach with an application for a developing country\
