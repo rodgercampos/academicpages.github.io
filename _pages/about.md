@@ -17,26 +17,30 @@ Currículo [**Lattes**](http://lattes.cnpq.br/6682179634478803).
 
 # News
 
-[09/02/2021]. **INTERVIEW** Exame\
+[09/02/2021]. **IN THE MEDIA** Exame\
 [Com a alta do INCC, vale a pena comprar imóvel na planta?](https://exame.com/invest/com-a-alta-do-incc-vale-a-pena-comprar-imovel-na-planta/)\
-Rodger Campos
+Interviewed: Rodger Campos
 
-[28/01/2021]. **INTERVIEW** CNN Brasil\
+[28/01/2021]. **IN THE MEDIA** CNN Brasil\
 [Preço do material de construção sobe e prejudica sonho da casa própria](https://www.cnnbrasil.com.br/business/2021/01/28/preco-do-material-de-construcao-sobe-e-prejudica-sonho-da-casa-propria)\
-Rodger Campos
+Interviewed: Rodger Campos
 
 [28/01/2021]. **NEW PUBLICATION** Boletim Fipe\
 [Compra de Imóveis na Planta em Época de Inflação Setorial](https://downloads.fipe.org.br/publicacoes/bif/bif484-15-18.pdf)\
-Rodger Campos
+Author: Rodger Campos
 
 [21/01/2021]. **NEW ACCADEMIC PUBLICATION** Nova Economia\
 Employment sub-centers in a megacity from a developing country: the case of the Municipality of São Paulo, Brazil\
-Rodger Campos & André Chagas
+Authors:Rodger Campos & André Chagas
 
 [21/01/2021]. **NEW PUBLICATION** Journal Economía\
 Empirical identification of intra-urban subcentralities: a new NOmethodological approach with an application for a developing country\
-Rodger Campos & Carlos Azzoni
+Authors: Rodger Campos & Carlos Azzoni
 
-[10/01/2021]. **NEW PUBLICATION** Extra \
+[10/01/2021]. **IN THE MEDIA** Extra \
 [Especialistas avaliam como deve se comportar o mercado imobiliário em 2021](https://extra.globo.com/economia/castelar/especialistas-avaliam-como-deve-se-comportar-mercado-imobiliario-em-2021-24830391.html)
-Rodger Campos
+Interviewed: Rodger Campos
+
+[24/12/2020]. **IN THE MEDIA** Fala Brasil - TV Record \
+[Índice de reajuste IGP-M sobe e preocupa inquilinos](https://recordtv.r7.com/fala-brasil/videos/indice-de-reajuste-igp-m-sobe-e-preocupa-inquilinos-24122020)
+Interviewed: Rodger Campos
