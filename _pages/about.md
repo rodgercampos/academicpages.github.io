@@ -16,7 +16,7 @@ Senior economist at OLX Brasil, Associate Researcher in the Regional and Urban E
 Currículo [**Lattes**](http://lattes.cnpq.br/6682179634478803). 
 
 # News
-[11/02/2021]. **IN THE MEDIA** Exame\
+[11/02/2021]. **IN THE MEDIA** iDinheiro\
 [Vale à pena vender imóvel agora, apesar da pandemia? Entenda como está o mercado](https://www.idinheiro.com.br/noticias/vender-imovel/)\
 Interviewed: Rodger Campos
 
